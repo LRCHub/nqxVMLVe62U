@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Blame It On the Boogie (Official Video)",
+  "base_artist": "The Jacksons",
+  "createdAt": "2026-02-09T06:25:15.634023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Jacksons",
+      "has_synced": true,
+      "path": "select/01_Blame_It_On_The_Boogie_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Jacksons",
+      "has_synced": true,
+      "path": "select/02_Blame_It_On_The_Boogie_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "The Jacksons",
+      "has_synced": true,
+      "path": "select/03_Blame_It_On_The_Boogie_The_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Jacksons",
+      "has_synced": true,
+      "path": "select/04_Blame_It_On_The_Boogie_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Jacksons",
+      "has_synced": true,
+      "path": "select/05_Blame_It_On_The_Boogie_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blame It on the Boogie",
+      "artist": "The Jacksons",
+      "has_synced": true,
+      "path": "select/06_Blame_It_on_the_Boogie_The_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Mick Jackson",
+      "has_synced": false,
+      "path": "select/07_Blame_It_On_The_Boogie_Mick_Jackson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Jacksons",
+      "has_synced": true,
+      "path": "select/08_Blame_It_On_The_Boogie_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blame It on the Boogie",
+      "artist": "The Jacksons",
+      "has_synced": true,
+      "path": "select/09_Blame_It_on_the_Boogie_The_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blame It On the Boogie",
+      "artist": "Rockapella",
+      "has_synced": false,
+      "path": "select/10_Blame_It_On_the_Boogie_Rockapella.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blame It on the Boogie",
+      "artist": "The Jacksons",
+      "has_synced": true,
+      "path": "select/11_Blame_It_on_the_Boogie_The_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Jackson 5",
+      "has_synced": true,
+      "path": "select/12_Blame_It_On_The_Boogie_Jackson_5.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Big Fun",
+      "has_synced": true,
+      "path": "select/13_Blame_It_On_The_Boogie_Big_Fun.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/14_Blame_It_On_The_Boogie_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blame It on the Boogie",
+      "artist": "Susan Wong",
+      "has_synced": false,
+      "path": "select/15_Blame_It_on_the_Boogie_Susan_Wong.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Jacksons",
+      "has_synced": true,
+      "path": "select/16_Blame_It_On_The_Boogie_Jacksons.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Jacksons, The",
+      "has_synced": true,
+      "path": "select/17_Blame_It_On_The_Boogie_Jacksons,_The.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Blame It On The Boogie",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/18_Blame_It_On_The_Boogie_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blame It On The Boogie",
+      "artist": "The Jacksons",
+      "has_synced": false,
+      "path": "select/pl_01_Blame_It_On_The_Boogie_The_Jacksons.txt"
+    }
+  ]
+}
